@@ -17,7 +17,7 @@
 7. [ERP Software](#7-erp-software-page-industry) - `/enterprise-resource-planning`
 8. [Healthcare App](#8-healthcare-app-page-industry) - `/healthcare-app-development`
 9. [Real Estate App](#9-real-estate-app-page-industry) - `/real-estate-app-development`
-10. [Kindergarten Management](#10-kindergarten-management-page-industry) - `/kindergarten-school-management`
+10. [Kindergarten Management](#10-kindergarten-management-page-industry) - `/kindergarten-school-management-software`
 11. [Education/School CRM](#11-educationschool-crm-page-industry) - `/education-app-development`
 12. [Travel & Tourism](#12-travel--tourism-page-industry) - `/travel-app-development`
 13. [Ticketing Solution](#13-ticketing-solution-page-industry) - `/ticketing-solution`
@@ -25,14 +25,14 @@
 15. [Manufacturing](#15-manufacturing-page-industry) - `/manufacturing`
 
 ## SERVICE PAGES
-16. [Technology Consultation & MIS](#16-technology-consultation--mis-page-service) - `/technology-consultation-mis`
-17. [Software Engineering](#17-software-engineering-page-service) - `/software-engineering`
+16. [Technology Consultation & MIS](#16-technology-consultation--mis-page-service) - `/technology-consultation-services`
+17. [Software Engineering](#17-software-engineering-page-service) - `/software-engineering-services`
 18. [AI & ML Services](#18-ai--ml-services-page-service) - `/ai-ml-services`
-19. [Application Modernisation](#19-application-modernisation-page-service) - `/application-modernisation`
-20. [Digital Transformation](#20-digital-transformation-page-service) - `/digital-transformation`
+19. [Application Modernisation](#19-application-modernisation-page-service) - `/application-modernisation-services`
+20. [Digital Transformation](#20-digital-transformation-page-service) - `/digital-transformation-services`
 21. [Ideation & Design](#21-ideation--design-page-service) - `/ideation-design`
-22. [Mobile Application](#22-mobile-application-page-service) - `/mobile-application`
-23. [Go-to-Market](#23-go-to-market-page-service) - `/go-to-market`
+22. [Mobile Application](#22-mobile-application-page-service) - `/mobile-application-development`
+23. [Go-to-Market](#23-go-to-market-page-service) - `/go-to-market-services`
 24. [Startup Technology Partnership](#24-startup-technology-partnership-page-service) - `/startup-technology-partnership`
 
 ## RESOURCE PAGES
@@ -60,12 +60,12 @@
 ## 1. MAIN PAGES
 
 ### 1.1 Home Page (`/`)
-**Meta Title:** Custom Software Development Company | Ascentia Labs - AI-Powered Solutions
+**Meta Title:** Custom Software Development Services | Ascentia Labs
 
 **Meta Description:** Transform your business with Ascentia Labs' custom software development services. We build scalable, AI-powered digital solutions for startups and enterprises. Get 24/7 support & fast delivery.
 
 ### 1.2 About Us Page (`/about-us`)
-**Meta Title:** About Ascentia Labs | Leading Software Development Company & Technology Partners
+**Meta Title:** About Ascentia Labs | Leading Software Development Company
 
 **Meta Description:** Learn about Ascentia Labs - your trusted technology partner. We specialize in custom software development, AI solutions, and digital transformation for businesses worldwide.
 
@@ -77,109 +77,109 @@
 ## 2. INDUSTRY PAGES
 
 ### 2.1 Complaint Management System (`/complaint-management-system`)
-**Meta Title:** Complaint Management System Development | Admin Panel Solutions | Ascentia Labs
+**Meta Title:** Complaint Management App Development | Ascentia Labs
 
 **Meta Description:** Streamline complaint handling with our comprehensive complaint management system. Features role-based access, real-time monitoring, analytics & automated notifications.
 
 ### 2.2 Interior Design App (`/interior-design-app-development`)
-**Meta Title:** Interior Design App Development | 3D Visualization & Project Management | Ascentia Labs
+**Meta Title:** Interior Design App Development | Ascentia Labs
 
 **Meta Description:** Professional interior design app development with 3D visualization, project management, client collaboration tools. Transform your interior design business with our custom solutions.
 
 ### 2.3 Logistics Software (`/logistics-software-development`)
-**Meta Title:** Logistics Software Development | Supply Chain Management Solutions | Ascentia Labs
+**Meta Title:** Logistics Software Development | Ascentia Labs
 
 **Meta Description:** Advanced logistics software development for supply chain optimization. Features inventory management, route planning, shipment tracking & real-time analytics.
 
 ### 2.4 ERP Software (`/enterprise-resource-planning`)
-**Meta Title:** ERP Software Development | Enterprise Resource Planning Solutions | Ascentia Labs
+**Meta Title:** ERP Software Development | Ascentia Labs
 
 **Meta Description:** Custom ERP software development for streamlined business operations. Integrate departments, track performance, generate reports with our comprehensive ERP solutions.
 
 ### 2.5 Healthcare App (`/healthcare-app-development`)
-**Meta Title:** Healthcare App Development | Medical Management Software Solutions | Ascentia Labs
+**Meta Title:** Healthcare App Development | Ascentia Labs
 
 **Meta Description:** Comprehensive healthcare app development with patient records, appointment scheduling, inventory management & performance analytics for medical practices.
 
 ### 2.6 Real Estate App (`/real-estate-app-development`)
-**Meta Title:** Real Estate App Development | Property Management Solutions | Ascentia Labs
+**Meta Title:** Real Estate App Development | Ascentia Labs
 
 **Meta Description:** Custom real estate app development with property listings, CRM integration, virtual tours & lead management. Boost your real estate business with our solutions.
 
 ### 2.7 Kindergarten Management (`/kindergarten-school-management`)
-**Meta Title:** Kindergarten Management System | Early Childhood Education Software | Ascentia Labs
+**Meta Title:** Kindergarten Management System | Ascentia Labs
 
 **Meta Description:** Comprehensive kindergarten management system for early childhood education. Features student tracking, parent communication, staff management & learning analytics.
 
 ### 2.8 Education/School CRM (`/education-app-development`)
-**Meta Title:** School Management System | Education CRM Development | Ascentia Labs
+**Meta Title:** School Management System | Ascentia Labs
 
 **Meta Description:** Complete school management system with CRM features. Streamline operations, engage students, improve educational outcomes with our school CRM solutions.
 
 ### 2.9 Travel & Tourism (`/travel-app-development`)
-**Meta Title:** Travel App Development | Tourism Management Software Solutions | Ascentia Labs
+**Meta Title:** Travel App Development | Ascentia Labs
 
 **Meta Description:** Advanced travel & tourism app development with booking management, itinerary planning, customer engagement & real-time updates for travel businesses.
 
 ### 2.10 Ticketing Solution (`/ticketing-solution`)
-**Meta Title:** Ticketing System Development | Event & Transport Booking Solutions | Ascentia Labs
+**Meta Title:** Ticketing App Development | Ascentia Labs
 
 **Meta Description:** Custom ticketing system development for events, transport & entertainment. Features online booking, seat selection, payment integration & analytics.
 
 ### 2.11 Textiles (`/textiles`)
-**Meta Title:** Textile Industry Software Development | Manufacturing Management Solutions | Ascentia Labs
+**Meta Title:** Textile Industry Software Development | Ascentia Labs
 
 **Meta Description:** Specialized software solutions for textile industry including inventory management, production tracking, quality control & supply chain optimization.
 
 ### 2.12 Manufacturing (`/manufacturing`)
-**Meta Title:** Manufacturing Software Development | Industrial Management Solutions | Ascentia Labs
+**Meta Title:** Manufacturing Software Development | Ascentia Labs
 
 **Meta Description:** Comprehensive manufacturing software development with production planning, inventory control, quality management & real-time monitoring for industrial operations.
 
 ## 3. SERVICE PAGES
 
 ### 3.1 Technology Consultation & MIS (`/technology-consultation-mis`)
-**Meta Title:** Technology Consultation & MIS Services | Strategic IT Planning | Ascentia Labs
+**Meta Title:** Technology Consultation & MIS Services | Ascentia Labs
 
 **Meta Description:** Expert technology consultation & MIS services for digital transformation. Strategic planning, cloud migration, system integration & performance optimization.
 
 ### 3.2 Software Engineering (`/software-engineering`)
-**Meta Title:** Software Engineering Services | Custom Development Solutions | Ascentia Labs
+**Meta Title:** Software Engineering Services | Ascentia Labs
 
 **Meta Description:** Professional software engineering services from concept to deployment. Build robust, scalable applications with our expert development team.
 
 ### 3.3 AI & ML Services (`/ai-ml-services`)
-**Meta Title:** AI & Machine Learning Services | Artificial Intelligence Solutions | Ascentia Labs
+**Meta Title:** Artificial Intelligence & Machine Learning Services | Ascentia Labs
 
 **Meta Description:** Advanced AI & ML services to transform your business. Custom machine learning models, predictive analytics, automation & intelligent solutions.
 
 ### 3.4 Application Modernisation (`/application-modernisation`)
-**Meta Title:** Application Modernisation Services | Legacy System Transformation | Ascentia Labs
+**Meta Title:** Application Modernisation Services | Ascentia Labs
 
 **Meta Description:** Transform legacy systems into modern, cloud-native applications. Improve performance, scalability & security with our modernisation services.
 
 ### 3.5 Digital Transformation (`/digital-transformation`)
-**Meta Title:** Digital Transformation Services | Business Process Automation | Ascentia Labs
+**Meta Title:** Business Process Automation Services | Ascentia Labs
 
 **Meta Description:** Comprehensive digital transformation services to modernize your business operations, enhance customer experiences & drive competitive advantage.
 
 ### 3.6 Ideation & Design (`/ideation-design`)
-**Meta Title:** UX/UI Design Services | Product Ideation & Design Thinking | Ascentia Labs
+**Meta Title:** Product Ideation & UX/UI Design Services | Ascentia Labs
 
 **Meta Description:** Transform ideas into exceptional user experiences with our design thinking approach. UX/UI design, prototyping & user-centered design services.
 
 ### 3.7 Mobile Application (`/mobile-application`)
-**Meta Title:** Mobile App Development | iOS & Android Application Services | Ascentia Labs
+**Meta Title:** Mobile App Development Services | Ascentia Labs
 
 **Meta Description:** Professional mobile app development for iOS & Android. Native & cross-platform solutions from concept to app store deployment.
 
 ### 3.8 Go-to-Market (`/go-to-market`)
-**Meta Title:** Go-to-Market Strategy Services | Product Launch Planning | Ascentia Labs
+**Meta Title:** Go-to-Market Strategy Services | Ascentia Labs
 
 **Meta Description:** Comprehensive go-to-market strategy services for successful product launches. Market analysis, positioning, launch planning & execution.
 
 ### 3.9 Startup Technology Partnership (`/startup-technology-partnership`)
-**Meta Title:** Startup Technology Partnership | CTO Services & Tech Solutions | Ascentia Labs
+**Meta Title:** Startup Technology Partnership | Ascentia Labs
 
 **Meta Description:** Partner with us to build your startup's technology foundation. CTO services, MVP development, scaling solutions & technical mentorship.
 
